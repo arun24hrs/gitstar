@@ -2,9 +2,9 @@
 import {Routes, Route} from 'react-router-dom'
 import Navbar from './components/navbar';
 import All from './pages/All';
-import CssPage from './pages/cssPage';
-import HtmlPage from './pages/htmlPage';
-import JsPage from './pages/jsPage';
+import CssPage from './pages/CssPage.jsx';
+import HtmlPage from './pages/htmlPage.jsx';
+import JsPage from './pages/jsPage.jsx';
 
 function App() {
 
