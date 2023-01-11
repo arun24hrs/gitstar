@@ -3,8 +3,8 @@ import {Routes, Route} from 'react-router-dom'
 import Navbar from './components/navbar';
 import All from './pages/All';
 import CssPage from './pages/CssPage.jsx';
-import HtmlPage from './pages/htmlPage.jsx';
-import JsPage from './pages/jsPage.jsx';
+import HtmlPage from './pages/HtmlPage.jsx';
+import JsPage from './pages/JsPage.jsx';
 
 function App() {
 
