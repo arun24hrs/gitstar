@@ -19,6 +19,7 @@ jobs:
       - name: Build Project
         run: npm run build
   deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
     steps:
